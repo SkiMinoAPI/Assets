@@ -1,2 +1,2 @@
 # SkiMino-SDK
-SkiMino的快速引入库
+SkiMino的数据统计库
